@@ -59,4 +59,5 @@ This study showed the power of PCA in exploring complex image descriptor data an
 ---
 
 **Author:** Youssef Hamdani et Hamza Badreddine 
+
 **Course:** Analyse de Donnee  
